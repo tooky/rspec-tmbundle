@@ -23,7 +23,7 @@ ${TM_RUBY:-ruby} /tmp/textmate-command-$$.rb; exit_status=$?; rm /tmp/textmate-c
 	<key>output</key>
 	<string>showAsTooltip</string>
 	<key>scope</key>
-	<string>source.ruby, text.html.ruby</string>
+	<string>source.ruby, text.html.ruby, text.haml</string>
 	<key>uuid</key>
 	<string>0C96C910-0A83-4AFE-AEF7-1F4882A00232</string>
 </dict>
